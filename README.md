@@ -31,6 +31,9 @@
 
 
 ### Manipulando, compactando e descompactando arquivos.
+* **cp** para copiar um arquivo
+* **mv** para mover um arquivo.
+
 ### Mais sobre compactação e descompactação e comandos no terminal.
 
 ### Edição de arquivos com VI:inclusão, alteração, exclusão, repetição.

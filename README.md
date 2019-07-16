@@ -32,8 +32,13 @@
 
 ### Manipulando, compactando e descompactando arquivos.
 * **cp** para copiar um arquivo
+**cp bemvindo2.txt bemvindo.txt** Copiar o arquivo bemvindo2.,txt para o arquivo bemvindo.txt
 * **mv** para mover um arquivo.
-* **cp -r** copiar recursivo.
+* **cp -r** copiar um diretório recursivo.
+* **ls*** para mostrar todos os diretórios e subdiretorios.
+* **zip -rq work.zip workspace** comando para compactar de forma quieta e recursiva o diretorio workspace para o arquivo work.zip
+* **unzip -q work.zip** comando para descompactar o arquivo .zip 
+
 
 
 ### Mais sobre compactação e descompactação e comandos no terminal.

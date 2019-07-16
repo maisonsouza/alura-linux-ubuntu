@@ -33,6 +33,8 @@
 ### Manipulando, compactando e descompactando arquivos.
 * **cp** para copiar um arquivo
 * **mv** para mover um arquivo.
+* **cp -r** copiar recursivo.
+
 
 ### Mais sobre compactação e descompactação e comandos no terminal.
 

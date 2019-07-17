@@ -39,9 +39,11 @@
 * **zip -rq work.zip workspace** comando para compactar de forma quieta e recursiva o diretorio workspace para o arquivo work.zip
 * **unzip -q work.zip** comando para descompactar o arquivo .zip 
 
-
-
 ### Mais sobre compactação e descompactação e comandos no terminal.
+* tar é mais comum no ambiente linux
+* tar -cz nomedapasta > nomearquivo.tar.gz
+* tar -v (verbose) -c(create) -z(gzip) -f(file) -x (extract)
+* less(para visualizar arquivo), head(começo do arquivo), tail(final do arquivo)
 
 ### Edição de arquivos com VI:inclusão, alteração, exclusão, repetição.
 

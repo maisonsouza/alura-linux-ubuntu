@@ -1,10 +1,19 @@
-Um componente Texto Longo tem características similares à Caixa de Texto, porém dá suporte a mais informações, podendo chegar a ter várias linhas listadas nele; por isso é ideal para campos que irão conter textos extensos.
-
-A configuração é bastante simples, basta adicionar o campo a que ele se relaciona em uma determinada tabela e outras configurações mais simples com o título que ele recebe, etc.
-
-Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui.
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
 
 Observações:
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los clique aqui. 
 
 Dentro de um formulário contendo um componente Texto Longo maior do que o formulário, ou seja, fora da área visual, só é possível visualizar os dados do componente se a Propriedade Barra de Navegação estiver desabilitada ou se o formulário estiver no estado de Inserção ou Alteração;
 

@@ -1,6 +1,5 @@
 # Curso de Linux I: Conhecendo e utilizando o terminal
-![](https://www.alura.com.br/assets/api/share/curso-linux-ubuntu.png)
-## [Link do Curso](https://cursos.alura.com.br/course/linux-ubuntu)
+[![](https://www.alura.com.br/assets/api/share/curso-linux-ubuntu.png)](https://cursos.alura.com.br/course/linux-ubuntu)
 
 ### Trabalhando com arquivos e diretórios.
 * Ubuntu instalado.
